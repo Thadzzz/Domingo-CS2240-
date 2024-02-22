@@ -1,0 +1,769 @@
+.frame-child {
+  top: 0;
+  background-color: #3a3535;
+  height: 88px;
+}
+.click-to-scroll,
+.frame,
+.frame-child,
+.frame-item {
+  position: absolute;
+  left: 0;
+  width: 1440px;
+}
+.frame {
+  top: 0;
+  height: 1940px;
+  overflow: hidden;
+}
+.click-to-scroll,
+.frame-item {
+  top: 653px;
+  height: 10598px;
+}
+.click-to-scroll {
+  top: 794px;
+  left: 475px;
+  font-size: var(--font-size-mini);
+  display: inline-block;
+  width: 194px;
+  height: 21px;
+}
+.frame-child1,
+.frame-child2,
+.frame-inner,
+.rectangle-div {
+  position: absolute;
+  top: 2593px;
+  left: 952px;
+  background-color: var(--color-white);
+  width: 321px;
+  height: 306px;
+}
+.frame-child1,
+.frame-child2,
+.rectangle-div {
+  top: 3089px;
+}
+.frame-child1,
+.frame-child2 {
+  top: 3585px;
+}
+.frame-child2 {
+  top: 4081px;
+}
+.jean-1-icon {
+  position: absolute;
+  top: 2598px;
+  left: 957px;
+  width: 311px;
+  height: 296px;
+  object-fit: cover;
+}
+.born-in-pennsylvania,
+.neoclassicism-is-somewhat-container {
+  position: absolute;
+  top: 860px;
+  left: 176px;
+  text-align: justify;
+  display: inline-block;
+  width: 1090px;
+}
+.born-in-pennsylvania {
+  top: 2102px;
+  width: 693px;
+  height: 287px;
+}
+.jean-grew-up {
+  margin: 0;
+}
+.he-also-opened {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.angelica-was-seen-container,
+.antonio-was-an,
+.defied-his-familys,
+.jean-grew-up-container {
+  position: absolute;
+  top: 2598px;
+  left: 173px;
+  text-align: justify;
+  display: inline-block;
+  width: 693px;
+  height: 287px;
+}
+.angelica-was-seen-container,
+.antonio-was-an,
+.defied-his-familys {
+  top: 3103px;
+}
+.angelica-was-seen-container,
+.defied-his-familys {
+  top: 3590px;
+}
+.defied-his-familys {
+  top: 4086px;
+  height: 323px;
+}
+.span {
+  font-family: var(--font-inria-serif);
+}
+.davies-nd {
+  margin: 0;
+  color: var(--color-gold);
+}
+.the-death-of-container {
+  position: absolute;
+  top: 6790px;
+  left: 173px;
+  text-align: justify;
+  display: inline-block;
+  width: 1122px;
+  height: 179px;
+}
+.martin-nd {
+  color: var(--color-gold);
+}
+.houdons-lecorch-is-a-life-s-container,
+.painted-in-1785-cornelia-container {
+  position: absolute;
+  top: 7734px;
+  left: 173px;
+  display: inline-block;
+  text-align: justify;
+  width: 1122px;
+  height: 179px;
+}
+.houdons-lecorch-is-a-life-s-container {
+  top: 8202px;
+  left: 661px;
+  width: 627px;
+  height: 395px;
+}
+.antonio-canovas-sculpture-container {
+  top: 9133px;
+  left: 171px;
+  width: 627px;
+  height: 323px;
+}
+.antonio-canovas-sculpture-container,
+.cole-2022-how-container,
+.for-its-art-container {
+  position: absolute;
+  text-align: justify;
+  display: inline-block;
+}
+.cole-2022-how-container {
+  top: 9874px;
+  left: 153px;
+  font-size: 25px;
+  width: 1133px;
+  height: 984px;
+}
+.for-its-art-container {
+  top: 4682px;
+  left: 173px;
+  width: 1122px;
+  height: 215px;
+}
+.both-texts-are {
+  white-space: pre-wrap;
+}
+.the-movement-was-container {
+  position: absolute;
+  top: 1130px;
+  left: 176px;
+  text-align: justify;
+  display: inline-block;
+  width: 693px;
+  height: 759px;
+}
+.johann-winckelmann-1717 {
+  position: absolute;
+  top: 1157px;
+  left: 983px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 259px;
+  height: 13px;
+}
+.angelica-kauffman-,
+.antonio-canova-,
+.benjamin-west-,
+.jacques-louis-david-,
+.jean-antoine-houdon-,
+.the-one-way {
+  position: absolute;
+  top: 1787px;
+  left: 942px;
+  font-size: var(--font-size-mini);
+  display: inline-block;
+  font-weight: 300;
+  width: 341px;
+  height: 44px;
+}
+.angelica-kauffman-,
+.antonio-canova-,
+.benjamin-west-,
+.jacques-louis-david-,
+.jean-antoine-houdon- {
+  top: 2477px;
+  left: 954px;
+  height: 17px;
+}
+.angelica-kauffman-,
+.antonio-canova-,
+.jacques-louis-david-,
+.jean-antoine-houdon- {
+  top: 2973px;
+}
+.angelica-kauffman-,
+.antonio-canova-,
+.jacques-louis-david- {
+  top: 3479px;
+  height: 48px;
+}
+.angelica-kauffman-,
+.jacques-louis-david- {
+  top: 3975px;
+  height: 17px;
+}
+.jacques-louis-david- {
+  top: 4461px;
+}
+.american-british-painter,
+.french-painter,
+.french-sculptor,
+.italian-sculptor,
+.swiss-painter,
+.the-father-of {
+  position: absolute;
+  top: 1761px;
+  left: 954px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 341px;
+  height: 13px;
+}
+.american-british-painter,
+.french-painter,
+.french-sculptor,
+.italian-sculptor,
+.swiss-painter {
+  top: 2444px;
+}
+.french-painter,
+.french-sculptor,
+.italian-sculptor,
+.swiss-painter {
+  top: 2940px;
+}
+.french-painter,
+.italian-sculptor,
+.swiss-painter {
+  top: 3446px;
+}
+.french-painter,
+.swiss-painter {
+  top: 3932px;
+}
+.french-painter {
+  top: 4428px;
+}
+.i,
+.the-death-of {
+  left: 549px;
+  width: 341px;
+}
+.i {
+  position: absolute;
+  top: 6742px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  font-weight: 300;
+  height: 17px;
+}
+.the-death-of {
+  top: 6709px;
+  font-size: var(--font-size-base);
+  white-space: pre-wrap;
+  height: 13px;
+}
+.cornelia-pointing-to,
+.i1,
+.i2,
+.the-death-of {
+  position: absolute;
+  display: inline-block;
+}
+.i1 {
+  top: 7686px;
+  left: 549px;
+  font-size: var(--font-size-xl);
+  font-weight: 300;
+  width: 341px;
+  height: 17px;
+}
+.cornelia-pointing-to,
+.i2 {
+  top: 7653px;
+  left: 470px;
+  font-size: var(--font-size-base);
+  width: 528px;
+  height: 13px;
+}
+.i2 {
+  top: 8779px;
+  left: 200px;
+  font-size: var(--font-size-xl);
+  font-weight: 300;
+  width: 341px;
+  height: 17px;
+}
+.lecorche-jean-antoine {
+  top: 8746px;
+  left: 121px;
+  font-size: var(--font-size-base);
+  width: 528px;
+  height: 13px;
+}
+.i3,
+.lecorche-jean-antoine,
+.psyche-revived-by {
+  position: absolute;
+  display: inline-block;
+}
+.i3 {
+  top: 9656px;
+  left: 895px;
+  font-size: var(--font-size-xl);
+  font-weight: 300;
+  width: 341px;
+  height: 17px;
+}
+.psyche-revived-by {
+  top: 9623px;
+  left: 816px;
+  font-size: var(--font-size-base);
+  width: 528px;
+  height: 13px;
+}
+.the-painting-represents-container {
+  position: absolute;
+  top: 5825px;
+  left: 173px;
+  display: inline-block;
+  text-align: justify;
+  width: 1122px;
+  height: 287px;
+}
+.i4,
+.oath-of-the {
+  position: absolute;
+  left: 549px;
+  display: inline-block;
+  width: 341px;
+}
+.i4 {
+  top: 5777px;
+  font-size: var(--font-size-xl);
+  font-weight: 300;
+  height: 17px;
+}
+.oath-of-the {
+  top: 5744px;
+  font-size: var(--font-size-base);
+  height: 13px;
+}
+.frame-child3,
+.frame-child4 {
+  position: absolute;
+  top: 1191px;
+  left: 955px;
+  background-color: var(--color-white);
+  width: 316px;
+  height: 555px;
+}
+.frame-child4 {
+  top: 2097px;
+  left: 952px;
+  width: 321px;
+  height: 306px;
+}
+.johann-joachim-winckelmann-an-icon,
+.johann-joachim-winckelmann-an-icon1 {
+  position: absolute;
+  top: 1196px;
+  left: 960px;
+  width: 306px;
+  height: 545px;
+  object-fit: cover;
+}
+.johann-joachim-winckelmann-an-icon1 {
+  left: 961px;
+}
+.angelica-1-icon,
+.anty-1-icon,
+.bennj-1-icon,
+.jaq-1-icon {
+  position: absolute;
+  top: 2102px;
+  left: 957px;
+  width: 311px;
+  height: 296px;
+  object-fit: cover;
+}
+.angelica-1-icon,
+.anty-1-icon,
+.jaq-1-icon {
+  top: 3094px;
+}
+.angelica-1-icon,
+.jaq-1-icon {
+  top: 3590px;
+}
+.jaq-1-icon {
+  top: 4086px;
+}
+.paintings {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 191px;
+  height: 39px;
+}
+.frame2 {
+  position: absolute;
+  top: 32px;
+  left: 1101px;
+  width: 87px;
+  height: 25px;
+  overflow: hidden;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-jacques-francois);
+}
+.frame-child5,
+.frame-child6,
+.frame-child7,
+.frame-child8,
+.frame-child9 {
+  position: absolute;
+  top: 6172px;
+  left: 203px;
+  background-color: var(--color-gainsboro);
+  width: 1034px;
+  height: 511px;
+}
+.frame-child6,
+.frame-child7,
+.frame-child8,
+.frame-child9 {
+  top: 4995px;
+  left: 233px;
+  width: 1002px;
+  height: 723px;
+}
+.frame-child7,
+.frame-child8,
+.frame-child9 {
+  top: 7085px;
+  left: 203px;
+  width: 1034px;
+  height: 542px;
+}
+.frame-child8,
+.frame-child9 {
+  top: 8029px;
+  left: 165px;
+  width: 441px;
+  height: 691px;
+}
+.frame-child9 {
+  top: 8871px;
+  left: 859px;
+  height: 726px;
+}
+.ddeath-1-icon,
+.the-oath-of-the-horatii-3-1 {
+  position: absolute;
+  top: 6177px;
+  left: 208px;
+  width: 1024px;
+  height: 501px;
+  object-fit: cover;
+}
+.the-oath-of-the-horatii-3-1 {
+  top: 5000px;
+  left: 238px;
+  width: 992px;
+  height: 713px;
+}
+.cpd-1-icon,
+.gela-1-icon,
+.leco-1-icon {
+  position: absolute;
+  top: 7090px;
+  left: 208px;
+  width: 1024px;
+  height: 532px;
+  object-fit: cover;
+}
+.cpd-1-icon,
+.leco-1-icon {
+  top: 8034px;
+  left: 170px;
+  width: 431px;
+  height: 681px;
+}
+.cpd-1-icon {
+  top: 8876px;
+  left: 864px;
+  height: 716px;
+}
+.references {
+  position: absolute;
+  top: 31px;
+  left: 1263px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-jacques-francois);
+  text-align: left;
+  display: inline-block;
+  width: 102px;
+  height: 21px;
+  cursor: pointer;
+}
+.face1-1-icon {
+  position: absolute;
+  top: 5px;
+  left: 7px;
+  width: 88px;
+  height: 75px;
+  object-fit: cover;
+}
+.frame1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 11251px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+}
+.frame3,
+.neoclassica {
+  position: absolute;
+  width: 295px;
+}
+.neoclassica {
+  top: 0;
+  left: 0;
+  display: inline-block;
+  height: 60px;
+}
+.frame3 {
+  top: 19px;
+  left: 90px;
+  height: 50px;
+  overflow: hidden;
+  font-size: 35px;
+  font-family: var(--font-jacques-francois);
+}
+.wolfe-2-1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 649px;
+  object-fit: cover;
+}
+.frame-child10,
+.frame4,
+.frame5 {
+  position: absolute;
+  width: 748px;
+  height: 235px;
+}
+.frame-child10 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  opacity: 0.8;
+  mix-blend-mode: hard-light;
+}
+.frame4,
+.frame5 {
+  top: 202px;
+  left: 379px;
+  overflow: hidden;
+}
+.frame4 {
+  top: 86px;
+  left: 0;
+  width: 1440px;
+  height: 648px;
+}
+.the-neoclassic-period-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  font-weight: 700;
+  width: 659px;
+  height: 116px;
+}
+.frame6 {
+  position: absolute;
+  top: 324px;
+  left: 424px;
+  width: 659px;
+  height: 79px;
+  overflow: hidden;
+  font-size: 64px;
+}
+.neoclassicm {
+  color: #ff0808;
+}
+.a-peek-into-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  font-weight: 700;
+  width: 516px;
+  height: 103px;
+}
+.frame7 {
+  position: absolute;
+  top: 421px;
+  left: 496px;
+  width: 516px;
+  height: 72px;
+  overflow: hidden;
+  font-size: 45px;
+}
+.origin-history {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  font-weight: 700;
+  width: 382px;
+  height: 51px;
+}
+.frame-icon,
+.frame8,
+.frame9 {
+  position: absolute;
+  top: 776px;
+  left: 176px;
+  width: 320px;
+  height: 51px;
+  overflow: hidden;
+}
+.frame-icon,
+.frame9 {
+  top: 789px;
+  left: 124px;
+  width: 26px;
+  height: 38px;
+}
+.frame9 {
+  top: 776px;
+  left: 176px;
+  width: 375px;
+  height: 51px;
+  cursor: pointer;
+}
+.frame-icon1,
+.frame-icon2,
+.frame-icon3,
+.frame-icon4 {
+  position: absolute;
+  top: 789px;
+  left: 124px;
+  width: 26px;
+  height: 38px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.frame-icon2,
+.frame-icon3,
+.frame-icon4 {
+  top: 2020px;
+}
+.frame-icon3,
+.frame-icon4 {
+  top: 4560px;
+}
+.frame-icon4 {
+  top: 9790px;
+}
+.relevant-figures {
+  position: absolute;
+  top: 0;
+  left: 0;
+  text-decoration: underline;
+  display: inline-block;
+  font-weight: 700;
+  width: 382px;
+  height: 51px;
+}
+.frame10,
+.frame11,
+.frame12 {
+  position: absolute;
+  top: 2007px;
+  left: 176px;
+  width: 375px;
+  height: 59px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.frame11,
+.frame12 {
+  top: 4547px;
+  width: 320px;
+}
+.frame12 {
+  top: 9777px;
+}
+.relevant-figures1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 158px;
+  height: 39px;
+}
+.frame13,
+.frame14 {
+  position: absolute;
+  top: 32px;
+  left: 868px;
+  width: 158px;
+  height: 25px;
+  overflow: hidden;
+  cursor: pointer;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-jacques-francois);
+}
+.frame14 {
+  left: 637px;
+  width: 156px;
+}
+.frame-parent {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 11250px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+  font-family: var(--font-inria-serif);
+}
